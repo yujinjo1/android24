@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">final_project</string>
+
+    <!-- 네비게이션 드로어 문자열 리소스 추가 -->
+    <string name="drawer_opened">Drawer Opend</string>
+    <string name="drawer_closed">Drawar Closed</string>
+    <string name="default_client_id">946522324850-ot2edkvtinhul08cahoo21jnk5gsguvn.apps.googleusercontent.com</string>
+
+
+</resources>
